@@ -1,6 +1,8 @@
 # MIUG_Project
 A school project for Maschinelle Intelligenz und Gesellschaft (in Python) in TUM
 
+Find the link to the Latex project ( Overleaf) Here: [Here](https://www.overleaf.com/2348425867gkbmprxfjgft)
+
 
 ## Group Project
 
